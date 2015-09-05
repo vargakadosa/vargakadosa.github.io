@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Még egy poszta weblapomon
+title: Post2
 ---
 
-Teszt szöveg, a működő weblaphoz.
+Teszt szoveg, a mukodo weblaphoz.
 
-Teszt **VASTAG** betűk.
-
+Teszt **VASTAG** betuk.
