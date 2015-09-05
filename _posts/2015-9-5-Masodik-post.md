@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Még egy poszta weblapom!
+title: MÃ©g egy poszta weblapomon
 ---
 
-Teszt szöveg, a mûködõ weblaphoz.
+Teszt szÃ¶veg, a mÅ±kÃ¶dÅ‘ weblaphoz.
 
-Teszt **VASTAG** betûk.
+Teszt **VASTAG** betÅ±k.
 
